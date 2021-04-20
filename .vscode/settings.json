@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.formatOnType": true,
+  "files.autoSave": "onWindowChange",
+  "dart.extensionLogFile": null,
+  "keyboard.dispatch": "keyCode"
+}
